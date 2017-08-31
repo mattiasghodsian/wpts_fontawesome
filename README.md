@@ -13,5 +13,6 @@ jQuery( '.wptsfa_field' ).wptsFa();
 <input type="text" class="wptsfa_field" name="wptsfa_field" value="" />
 ```
 
-In action
+***In action***
+
 ![Extras](http://i.imgur.com/IWte7Pr.gif)
