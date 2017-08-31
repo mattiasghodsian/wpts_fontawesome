@@ -5,11 +5,17 @@
 
 Example:
 
-```jquery
+```
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script type="text/javascript" src="wptsfa.js"></script>
+<link rel="stylesheet" type="text/css" href="wptsfa.css" />
+```
+
+```
 jQuery( '.wptsfa_field' ).wptsFa();
 ```
 
-```html
+```
 <input type="text" class="wptsfa_field" name="wptsfa_field" value="" />
 ```
 
