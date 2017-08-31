@@ -1,6 +1,7 @@
 # wpts_fontawesome
-**A custom icon picker made for wp_theme_settings (can be used for other CMS)**
+**A custom icon picker made for [wp_theme_settings](https://github.com/mattiasghodsian/wp_theme_settings/) (can be used for other CMS)**
 
+![Extras](http://i.imgur.com/IWte7Pr.gif)
 
 Example:
 
