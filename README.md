@@ -7,8 +7,13 @@ Example:
 
 ```
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/js-yaml/3.6.1/js-yaml.js"></script>
 <script type="text/javascript" src="wptsfa.js"></script>
 <link rel="stylesheet" type="text/css" href="wptsfa.css" />
+
+
+
+
 ```
 
 ```
